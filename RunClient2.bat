@@ -17,4 +17,4 @@ set Map="127.0.0.1:1337"
 set Log=-log
 
 :: Finally Run The Command
-%UE4Dir% %ProjectDir% %Map% %Role% %Log% -ResX=800 -ResY=700 -WinX=800 -WinY=30
+%UE4Dir% %ProjectDir% %Map% %Role% %Log% -ResX=800 -ResY=700 -WinX=800 -WinY=30 -windowed
